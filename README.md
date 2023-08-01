@@ -10,6 +10,12 @@ Must install these two packages to start.
 - `pip install selenium`
 - `pip install webdriver_manager`
 
+### To manually accuire chromedriver binary follow the link below
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+
+https://pypi.org/project/chromedriver-py/
+
+
 ### 2. Write Message
 Write the message in the `message.txt` file.
 
