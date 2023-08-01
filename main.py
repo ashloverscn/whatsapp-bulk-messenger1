@@ -14,7 +14,8 @@ send_msg_time = 5   # Time for sending a message (in seconds)
 country_code = 91   # Set your country code
 
 # Create driver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+#driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+driver = webdriver.Chrome()
 
 # Encode Message Text
 with open('message.txt', 'r') as file:
