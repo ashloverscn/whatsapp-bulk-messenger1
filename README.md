@@ -10,7 +10,7 @@ Must install these two packages to start.
 - `pip install selenium`
 - `pip install webdriver_manager`
 
-### To manually accuire chromedriver binary follow the link below
+### To manually accuire chromedriver binary follow the links below
 https://googlechromelabs.github.io/chrome-for-testing/#stable
 
 https://pypi.org/project/chromedriver-py/
